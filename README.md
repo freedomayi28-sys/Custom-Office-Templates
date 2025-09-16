@@ -7,7 +7,7 @@
 
 
 <body>
-<body bgcolor="gray">
+<body bgcolor="black">
 <font="white" size="7" face="algerian"><b>DKM KLODING></font>
 <hr color="red" width="70%" align="left">
 <font color="white"><i><marquee>we sell all you need to wear    ...... we offer</marquee></i><br><br><br>
