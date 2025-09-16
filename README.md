@@ -22,7 +22,7 @@ Save time in Word with new buttons that show up where you need them.<br> To chan
 <H5>Very small size and bold</H5>
 Reading is easier, too, in the new Reading view.<br> You can collapse parts of the document and focus on the text you want.<br> If you need to stop reading before you reach the end,<br> Word remembers where you left off - even on another device.<br>
 <H6>Tiny and bold</H6>
-Video provides a powerful way to help you prove your point.<br> When you click Online Video, you can paste in the embed code for the video you want to add.<br> You can also type a keyword to search online for the video that best fits your document.<br>
+<font color="red">Video provides a powerful way to help you prove your point.<br> When you click Online Video, you can paste in the embed code for the video you want to add.<br> You can also type a keyword to search online for the video that best fits your document.<br></font>
 <ul type="circle"><font size="6">THE INGREDIENTS<HR>
 <li>peper</li>
 <li>groundnut paste</li>
