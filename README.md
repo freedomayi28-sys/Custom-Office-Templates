@@ -12,7 +12,7 @@
 <hr color="red" width="70%" align="left">
 <font color="white"><i><marquee>we sell all you need to wear    ...... we offer</marquee></i><br><br><br>
 <H1>Giant size and bold</H1>
-<font size="8"><a href="#top" name="bottom">BOTTOM</a></font><font size="8"><font size="30" color="black"Video provides a powerful way to help you prove your point.<br> When you click Online Video, you can paste in the embed code for the video you want to add.<br> You can also type a keyword to search online for the video that best fits your document.<br>
+<font size="8"><a href="#top" name="bottom">BOTTOM</a></font><font size="8"><font size="30" color="black">Video provides a powerful way to help you prove your point.<br> When you click Online Video, you can paste in the embed code for the video you want to add.<br> You can also type a keyword to search online for the video that best fits your document.<br>
 <H2>Large size and bold</H2>
 To make your document look professionally produced,<br> Word provides header, footer, cover page,<br> and text box designs that complement each other.<br> For example, you can add a matching cover page, header, and sidebar.<br> Click Insert and then choose the elements you want from the different galleries.<br>
 <H3>Normal size and bold</H3>
@@ -71,9 +71,8 @@ Video provides a powerful way to help you prove your point.<br> When you click O
 <td>20</td>
 <td>general art</td>
 </tr>
-
-
 </table>
+</font>
 
 
 
